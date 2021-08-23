@@ -1,6 +1,6 @@
 # keras-resnet
 Residual networks implementation using Keras-1.0 functional API, that works with 
-both theano/tensorflow backend and 'th'/'tf' image dim ordering.
+both theano/tensorflow backend.
 
 
 ### Residual blocks
